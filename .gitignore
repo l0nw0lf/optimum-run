@@ -1,0 +1,17 @@
+node_modules
+dist
+.output
+.nitro
+.tanstack
+.vercel
+screenshots
+*.log
+.env
+.env.*
+.DS_Store
+
+attachments/
+artifacts/
+
+.grok/*
+!.grok/app-env.json
